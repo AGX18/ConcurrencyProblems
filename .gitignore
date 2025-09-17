@@ -1,0 +1,32 @@
+# Binaries
+*.exe
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.lib
+
+# Debugging and build directories
+/Debug/
+/Release/
+/bin/
+/obj/
+/build/
+
+# IDE files
+.vscode/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
+*.sln
+*.vcxproj
+*.user
+*.suo
+*.VC.db
+
+# Other common files
+*~
+*.log
+*.swp
+a.out
